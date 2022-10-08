@@ -1,5 +1,5 @@
 -- DROP SCHEMA db_idoso;
-  
+
 CREATE SCHEMA db_idoso AUTHORIZATION postgres;
 
 -- DROP SEQUENCE db_idoso.tb_botao_botao_id_seq;
