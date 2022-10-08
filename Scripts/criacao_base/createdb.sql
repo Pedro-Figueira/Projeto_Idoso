@@ -1,4 +1,7 @@
--- DROP SCHEMA db_idoso;
+DROP SCHEMA IF EXISTS db_idoso CASCADE;
+
+CREATE SCHEMA db_idoso AUTHORIZATION postgres;
+
 
 CREATE SCHEMA db_idoso AUTHORIZATION postgres;
 
